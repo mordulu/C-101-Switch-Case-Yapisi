@@ -1,0 +1,15 @@
+C:\Users\ibrahimmelih.ordulu\Desktop\Yazılım\Pratikler\switch-case yapısı\bin\Debug\net6.0\switch-case yapısı.exe
+C:\Users\ibrahimmelih.ordulu\Desktop\Yazılım\Pratikler\switch-case yapısı\bin\Debug\net6.0\switch-case yapısı.deps.json
+C:\Users\ibrahimmelih.ordulu\Desktop\Yazılım\Pratikler\switch-case yapısı\bin\Debug\net6.0\switch-case yapısı.runtimeconfig.json
+C:\Users\ibrahimmelih.ordulu\Desktop\Yazılım\Pratikler\switch-case yapısı\bin\Debug\net6.0\switch-case yapısı.dll
+C:\Users\ibrahimmelih.ordulu\Desktop\Yazılım\Pratikler\switch-case yapısı\bin\Debug\net6.0\switch-case yapısı.pdb
+C:\Users\ibrahimmelih.ordulu\Desktop\Yazılım\Pratikler\switch-case yapısı\obj\Debug\net6.0\switch-case yapısı.csproj.AssemblyReference.cache
+C:\Users\ibrahimmelih.ordulu\Desktop\Yazılım\Pratikler\switch-case yapısı\obj\Debug\net6.0\switch-case yapısı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahimmelih.ordulu\Desktop\Yazılım\Pratikler\switch-case yapısı\obj\Debug\net6.0\switch-case yapısı.AssemblyInfoInputs.cache
+C:\Users\ibrahimmelih.ordulu\Desktop\Yazılım\Pratikler\switch-case yapısı\obj\Debug\net6.0\switch-case yapısı.AssemblyInfo.cs
+C:\Users\ibrahimmelih.ordulu\Desktop\Yazılım\Pratikler\switch-case yapısı\obj\Debug\net6.0\switch-case yapısı.csproj.CoreCompileInputs.cache
+C:\Users\ibrahimmelih.ordulu\Desktop\Yazılım\Pratikler\switch-case yapısı\obj\Debug\net6.0\switch-case yapısı.dll
+C:\Users\ibrahimmelih.ordulu\Desktop\Yazılım\Pratikler\switch-case yapısı\obj\Debug\net6.0\refint\switch-case yapısı.dll
+C:\Users\ibrahimmelih.ordulu\Desktop\Yazılım\Pratikler\switch-case yapısı\obj\Debug\net6.0\switch-case yapısı.pdb
+C:\Users\ibrahimmelih.ordulu\Desktop\Yazılım\Pratikler\switch-case yapısı\obj\Debug\net6.0\switch-case yapısı.genruntimeconfig.cache
+C:\Users\ibrahimmelih.ordulu\Desktop\Yazılım\Pratikler\switch-case yapısı\obj\Debug\net6.0\ref\switch-case yapısı.dll
